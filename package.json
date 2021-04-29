@@ -1,0 +1,21 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "migrate": "yarn knex migrate:latest --knexfile db/knexfile.js",
+    "rollback": "yarn knex migrate:rollback --knexfile db/knexfile.js",
+    "scrape": "node ./webscraper/cpu_scraper.js",
+    "seed": "yarn knex seed:run --knexfile db/knexfile.js"
+  },
+  "dependencies": {
+    "csv-parse": "^4.15.3",
+    "express": "^4.17.1",
+    "knex": "^0.95.2",
+    "pg": "^8.5.1",
+    "puppeteer": "^8.0.0",
+    "puppeteer-cluster": "^0.22.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

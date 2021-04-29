@@ -1,0 +1,20 @@
+Family,poly_prodcut_model,oem_model,minix_model,sku,priority,category,primary_cpu
+9th/8th Gen Coffee Lake Socket-S Series,H310L4,H310L4,,H310L4,1,Mini Series,8/9th Socket 1151
+9th/8th Gen Coffee Lake Socket-S Series,H310AEL2,H310AEL2,,H310AEL2,1,Mini Series,8/9th Socket 1151
+Slim ITX 170x170mm MB Series with Slot option,HM170L2/AEL2,HM170L2/AEL2,,HM170L2/AEL2,1,Mini Series,i5-6300HQ
+Slim ITX 170x170mm MB Series with Slot option,HM170L4,HM170L4,,HM170L4,1,Mini Series,i5-6300HQ
+"Booksize i series 1"" thin slim models",i63F,i63F,,i63F,1,Mini Series,i7-8665u
+Nano Size u -Series 120x120mm MB Models,Nano-8000L2C/7000B/7000FL2,Nano-8000L2C/7000B/7000FL2,,Nano-8000FL2,1,Mini Series,i7-8550u
+Nano Size u -Series 120x120mm MB Models,Nano-8000A/7000A,Nano-8000A/7000A,,Nano-8000A/7000A,1,Mini Series,i5-8250u
+Nano Size u -Series 120x120mm MB Models,Nano-3865C,Nano-3865C,,Nano-3865C,1,Mini Series,3865u
+7th Gen Gemini Lake (Fanless) J/N Series,N4100K/J5000K,N4100K,,N4100K/J5000K,1,Mini Series,N4100
+7th Gen Gemini Lake (Fanless) J/N Series,J4105AEL2/J5005AEL2,J4105AEL2/J5005AEL2,,J4105AEL2/J5005AEL2,1,Mini Series,J4105
+7th Gen Gemini Lake (Fanless) J/N Series,J4005AE/J4105AE,J4005AE/J4105AE,,J4005AE/J4105AE,1,Mini Series,J4005
+7th Gen Gemini Lake (Fanless) J/N Series,N4000D/N4100D,N4100D/J5005D,,N4000D/N4100D,1,Mini Series,N4000
+6th Gen Apollo Lake (Fanless) J/N/E Series,Nano-N3350D,Nano-N3350D,,Nano-N3350D,1,Mini Series,N3350
+4th Gen Bay Trail (Fanless) J/N Series,J1900AEL2,J1900AEL2,,J1900AEL2,1,Mini Series,J1900
+4th Gen Bay Trail (Fanless) J/N Series,J1900AE,J1900AE,,J1900AE,1,Mini Series,J1900
+4th Gen Bay Trail (Fanless) J/N Series,Nano-J1900L2,Nano-J1900L2,,Nano-J1900L2,1,Mini Series,J1900
+4th Gen Bay Trail (Fanless) J/N Series,Suma-800,Suma-800,,Suma 800,1,Storage,J1900
+AMD On Board CPU Series,NUC-A3000u,NUC-A3000u,,NUC-A3000u,1,Mini Series,2200u
+Android Fanless Player Box X Series,X10-mini,X10-mini,,x10-mini,1,Mini Series,RK3368
